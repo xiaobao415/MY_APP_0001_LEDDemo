@@ -1,7 +1,9 @@
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+/.idea
 .DS_Store
 /build
 /captures
+settings.gradle
+MY_APP_0001_LEDDemo.iml
+app.iml
